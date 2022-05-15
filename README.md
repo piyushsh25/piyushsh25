@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a youtube clone**
 
-- 🌱 I’m currently learning **Reactjs, Redux , Nextjs :D**
+- 🌱 I’m currently learning **Reactjs and typescript :D**
 
 - 💬 Ask me about **react ,javascript and life maybe :p**
 
