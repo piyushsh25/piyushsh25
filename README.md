@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 <h3 align="center">A frontend developer</h3>
 
-- 🔭 I’m currently working on **a youtube clone**
+- 🔭 I’m currently working on **a youtube clone** <a href="https://clipo.netlify.app/">Clipo</a>
 
 - 🌱 I’m currently learning **Reactjs and typescript :D**
 
