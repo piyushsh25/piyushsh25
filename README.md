@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Typescript and jest**
 
-- 📝 I’m looking forward to collaborate in **frontend projects** 
+- 📝 I’m looking forward to collaborate on **frontend projects** 
 
 - 👨‍💻 All of my projects are available [here](https://github.com/piyushsh25?tab=repositories)
 
