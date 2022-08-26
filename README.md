@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Piyush</h1>
-<h3 align="center">A Frontend developer..</h3>
+<h4 align="center">Hi, I'm Piyush. A frontend developer.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushsh25&label=Profile%20views&color=0e75b6&style=flat" alt="piyushsh25" /> </p>
 
