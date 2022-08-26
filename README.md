@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Typescript and jest**
 
+- 📝 I’m looking forward to collaborate **in any frontend project** 
+
 - 👨‍💻 All of my projects are available [here](https://github.com/piyushsh25?tab=repositories)
 
 - 📝 Some articles [here](https://dev.to/piyushsh)
