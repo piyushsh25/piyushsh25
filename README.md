@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushsh25&label=Profile%20views&color=0e75b6&style=flat" alt="piyushsh25" /> </p>
 
-- 🔭 I’m currently working on [a youtube clone](https://clipo.netlify.app/)
+- 🔭 I’m currently working on [a notes app](https://notesly.netlify.app/)
 
 - 🌱 I’m currently learning **Typescript and jest**
 
