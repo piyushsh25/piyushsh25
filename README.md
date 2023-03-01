@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushsh25&label=Profile%20views&color=0e75b6&style=flat" alt="piyushsh25" /> </p>
 
-- 🔭 I’m currently working on **notesly**
+- 🔭 I’m currently working on **[TP SMIT](https://tpsmit.netlify.app/)**
 
 - 🌱 I’m currently learning **Typescript and Jest**
 
